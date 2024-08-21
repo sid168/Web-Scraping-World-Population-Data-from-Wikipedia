@@ -25,5 +25,5 @@ The goal of this project is to:
 - `BeautifulSoup4`
 - `pandas`
 - `matplotlib` (optional, for visualizations)
-
-
+---
+This project is part of the IBM Data Science Professional Certificate on Coursera.
